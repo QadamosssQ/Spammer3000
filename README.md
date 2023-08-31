@@ -1,6 +1,9 @@
 # Spammer3000
 This app literally spams the text you enter.
 
+# PS
+I made this i 1min so don't judge this.
+
 ## Instruction
 
 1. Download
